@@ -8,8 +8,7 @@ public class Questao8 {
 	public static int PRETO = 1;
 	
 	/**
-	 * Metodo usado para verificar a existencia de
-	 * ciclos no grafo.
+	 * Metodo usado para verificar a existencia de ciclos no grafo.
 	 * @param g
 	 * @return
 	 */
