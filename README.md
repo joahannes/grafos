@@ -3,7 +3,7 @@ Universidade Federal do Pará
 
 Mestrado em Ciência da Computação - 2016.1
 
-Os algoritmos estão organizados em pastas, conforme mostrado a seguir:
+Algoritmos utilizados na disciplina de Projeto e Análise de Algoritmos. Os algoritmos estão organizados em pastas, conforme mostrado a seguir:
 
 BuscaCiclos
 ---
