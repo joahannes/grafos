@@ -1,9 +1,11 @@
 #Algoritmos de Grafos
 Universidade Federal do Pará
 
+Programa de Pós-Graduação em Ciência da Computação - PPGCC
+
 Mestrado em Ciência da Computação - 2016.1
 
-Algoritmos utilizados na disciplina de Projeto e Análise de Algoritmos. Os algoritmos estão organizados em pastas, conforme mostrado a seguir:
+Exercícios realizados para a disciplina de Projeto e Análise de Algoritmos. Os algoritmos estão organizados em pastas, conforme mostrado a seguir:
 
 BuscaCiclos
 ---
