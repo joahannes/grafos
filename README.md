@@ -1,5 +1,6 @@
 #Algoritmos de Grafos
 Universidade Federal do Pará
+
 Mestrado em Ciência da Computação - 2016.1
 
 Os algoritmos estão organizados em pastas, conforme mostrado a seguir:
