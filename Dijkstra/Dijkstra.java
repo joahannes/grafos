@@ -7,7 +7,7 @@ public class Dijkstra {
 
   public Dijkstra (Grafo grafo) { this.grafo = grafo; }  
   	
-  //Implementação usando Heap_Fibonacci para fila de prioridades
+  //Implementação usando Heap Fibonacci para fila de prioridades
   public void obterArvoreCMC (int raiz) throws Exception {
     int n = this.grafo.numVertices();
     this.p = new double[n]; // peso dos vertices
@@ -69,7 +69,7 @@ public class Dijkstra {
     } 
   }
 
-    //Implementação usando Vetor para fila de prioridades
+    //Implementação usando Heap Binario para fila de prioridades
     public void obterArvoreBinario(int raiz)throws Exception{
     int n = this.grafo.numVertices();
     this.p = new double[n]; // peso dos vertices
