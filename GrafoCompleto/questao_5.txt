@@ -1,0 +1,13 @@
+Questão 5.
+
+
+   A implementação usando Lista de Adjacências se manteve como a mais rápida
+ e não foi identificada diferênça significativa de tempo de execução entre
+ os vertices em uma mesma implementação.
+   A conclusão obtida com os dados foi que independente de o grafo ser um grafo
+ completo ou não, a implementação usando Lista de Adjacências sempre será melhor
+ que a implementação usando matriz de adjacências, quando for necessário obter a 
+ lista de vertices adjacentes a um determinado vertice do grafo. Entretanto também
+ foi verificado em questões anteriores que caso se deseje verificar a existência de
+ uma determinada aresta (i,j) em um grafo, a implementação usando Matriz de Adjacências
+ sempre será melhor que a implementação usando Lista de Adjacências.
