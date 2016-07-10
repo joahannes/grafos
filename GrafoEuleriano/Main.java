@@ -1,4 +1,5 @@
 import java.util.*;
+//Verifica se um grafo é euleriano e forma um ciclo euleriano.
 public class Main {
 	private static int time = 1;
 	private static void removeAresta(Grafo g, int u, int v)
