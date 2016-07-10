@@ -1,6 +1,8 @@
 /**
  * Allows the user to test the ArticulationPointDFS algorithm by letting him or her choose the graph file to run the
  * algorithm on.
+ * 
+ * Busca pontos de articulação
  *
  * Graph file format:
  * (numNodes) (numEdges)
