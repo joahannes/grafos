@@ -1,4 +1,6 @@
-#Algoritmos de Grafos
+[![License](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENSE.md)
+
+Algoritmos de Grafos
 Universidade Federal do Pará
 
 Programa de Pós-Graduação em Ciência da Computação - PPGCC
