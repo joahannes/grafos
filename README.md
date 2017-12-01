@@ -1,5 +1,4 @@
 #Algoritmos de Grafos
-[![NASA][1]][2]
 Universidade Federal do Pará
 
 Programa de Pós-Graduação em Ciência da Computação - PPGCC
